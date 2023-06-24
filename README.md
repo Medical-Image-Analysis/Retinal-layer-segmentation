@@ -11,12 +11,13 @@
  He X, Wang Y, Poiesi F, Song W, Xu Q, Feng Z and Wan Y (2023) Exploiting multi-granularity visual features for retinal layer segmentation in human eyes. *Front. Bioeng. Biotechnol.* 11:1191803. doi: 10.3389/fbioe.2023.1191803
 
 ```
-@article{he11exploiting,
+@article{he2023exploiting,
   title={Exploiting multi-granularity visual features for retinal layer segmentation in human eyes},
   author={He, Xiang and Wang, Yiming and Poiesi, Fabio and Song, Weiye and Xu, Quanqing and Feng, Zixuan and Wan, Yi},
   journal={Frontiers in Bioengineering and Biotechnology},
   volume={11},
-  pages={817},
+  pages={1191803},
+  year={2023},
   publisher={Frontiers}
 }
 ```
