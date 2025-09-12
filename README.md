@@ -26,4 +26,4 @@
 
 ## Contact
 
-If you have any questions, please do not hesitate to contact he_xiang@mail.sdu.edu.cn
+If you have any questions, please do not hesitate to contact hexiang@qfnu.edu.cn
