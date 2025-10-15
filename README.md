@@ -1,6 +1,6 @@
 # Exploiting multi-granularity visual features for retinal layer segmentation in human eyes
 
-
+![Image text](https://github.com/Medical-Image-Analysis/Retinal-layer-segmentation/blob/main/NR206%20dataset.png)
 
 **If you use the code or the NR206 dataset for your research, please cite the following paper:**
 
